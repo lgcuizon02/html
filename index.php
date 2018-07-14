@@ -2,7 +2,9 @@
 <head><title>Profile Page</title>
 <body>
 
-Hello World! <?php>echo "This is php."</php>
+Hello World! 
+<br><br>
+<?php echo '<p>Hello World</p>'; ?>
 
 </body>
 </html>
